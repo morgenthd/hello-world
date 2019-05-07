@@ -25,3 +25,5 @@ Software Project Review Checklist
 •	How responsive is the team to the tickets?
 •	Does Git have a clear history of documented changes?
 
+Amen.
+
